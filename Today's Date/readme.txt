@@ -1,0 +1,1 @@
+Write a program using JavaScript that gives the current date and time, including the day of the week and if it is AM or PM.
